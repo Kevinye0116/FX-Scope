@@ -1,0 +1,14 @@
+.history/
+.vscode/
+.idea/
+backend/db.sqlite3
+backend/logs/
+backend/**/__pycache__/
+backend/venv/
+node_modules
+
+.cursorrules
+package-lock.json
+package.json
+
+backend/chatbot/data/chroma_db

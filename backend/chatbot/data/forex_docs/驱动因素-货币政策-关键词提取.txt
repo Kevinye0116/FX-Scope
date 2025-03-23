@@ -1,0 +1,73 @@
+货币政策关键词提取
+
+任务描述
+
+作为资深外汇分析师，需从美联储（Fed）和欧洲央行（ECB）货币政策会议文本（声明、新闻发布会、政策文件等）提取关键指示性词汇，以预测外汇市场（美元、欧元）走势。
+
+关键词提取要求
+
+政策工具
+
+美联储：加息（rate hike）、降息（rate cut）、量化宽松（QE）、缩表（tapering）、联邦基金利率（federal funds rate）。
+
+欧洲央行：负利率（negative rates）、资产购买计划（asset purchase program）、长期再融资操作（LTRO）、定向长期再融资操作（TLTRO）。
+
+经济数据
+
+通胀：CPI（Consumer Price Index）、PCE（Personal Consumption Expenditures）、核心通胀（core inflation）。
+
+就业：非农就业（non - farm payrolls）、失业率（unemployment rate）。
+
+经济增长：GDP（Gross Domestic Product）、PMI（Purchasing Managers' Index）。
+
+政策立场
+
+鹰派：通胀风险（inflation risks）、紧缩政策（tightening policy）、加息预期（rate hike expectations）。
+
+鸽派：经济不确定性（economic uncertainty）、宽松政策（accommodative policy）、维持低利率（maintain low rates）。
+
+未来政策方向
+
+前瞻性指引（forward guidance）、政策路径（policy path）、经济展望（economic outlook）
+
+关键词提取方法
+
+使用自然语言处理（NLP）工具（如 Python 的 NLTK、spaCy）进行文本分词和词性标注。
+
+应用关键词提取算法（如 TF-IDF、TextRank）识别高频且重要的词汇。
+
+结合外汇市场专业知识，筛选出与货币政策及外汇市场相关的关键词。
+
+输出示例
+
+输入文本
+
+“美联储决定将联邦基金利率目标区间上调 25 个基点至 5.25%-5.50%，以应对持续高于目标的通胀压力。委员会将继续关注通胀数据和就业市场的表现，并在未来会议上根据经济前景调整政策路径。”
+
+输出内容
+
+关键词列表
+
+政策工具：加息（rate hike）、联邦基金利率（federal funds rate）。
+
+经济数据：通胀压力（inflation pressures）、就业市场（employment market）。
+
+政策立场：鹰派（hawkish）。
+
+未来政策方向：政策路径（policy path）、经济前景（economic outlook）。
+
+关键词解释
+
+加息：美联储提高利率以抑制通胀，通常利好美元。
+
+通胀压力：持续高通胀可能促使美联储进一步加息。
+
+鹰派：政策声明强调通胀风险，暗示未来可能继续加息。
+
+政策立场判断：鹰派
+
+附加说明
+
+对于欧洲央行文本，重点关注欧元区特有的政策工具（如 TLTRO）和经济数据（如 HICP，调和消费者物价指数）。
+
+如果文本中出现 “不确定性”（uncertainty）或 “风险”（risks）等词汇，可能暗示鸽派立场。如果文本中出现 “强劲”（strong）或 “持续”（persistent）等词汇，可能暗示鹰派立场。

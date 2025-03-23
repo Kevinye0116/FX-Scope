@@ -1,0 +1,243 @@
+# New Zealand Myfxbook NZDUSD Sentiment
+
+### 
+The Myfxbook NZDUSD Sentiment Indicator is a very important tool for traders. This indicator shows the percentages of buyers and sellers of NZDUSD. It helps you make better decisions by looking at the most recent market patterns and identifying where the market is likely to change direction. It is based on Live accounts connected to Myfxbook. 
+ 
+ 
+ 
+ Details 
+ 
+ Impact: 
+ 
+ 
+Medium
+ 
+ 
+ 
+ Currency: 
+ NZD 
+ 
+ 
+ 
+ Latest Release 
+ 
+ Date: 
+ Feb 10, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chart 
+ 
+ 
+ History 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Market Sentiment for New Zealand Dollar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Symbol 
+ Community Trend (Shorts vs Longs) 
+ Symbol Popularity 
+ Avg. Short Price / Distance From Price 
+ Avg. Long Price / Distance From Price 
+ Current Price 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUDNZD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.1013 
+ -71 pips 
+ 
+ 
+ 1.1101 
+ -17 pips 
+ 
+ 
+ 
+1.10837
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EURNZD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.8060 
+ -236 pips 
+ 
+ 
+ 1.8383 
+ -87 pips 
+ 
+ 
+ 
+1.82965
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NZDCAD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.8101 
+ -24 pips 
+ 
+ 
+ 0.8220 
+ -95 pips 
+ 
+ 
+ 
+0.81248
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NZDJPY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 86.3035 
+ -102 pips 
+ 
+ 
+ 89.4536 
+ -213 pips 
+ 
+ 
+ 
+87.327
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NZDUSD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5742 
+ +8 pips 
+ 
+ 
+ 0.5948 
+ -214 pips 
+ 
+ 
+ 
+0.57338
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GBPNZD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.1689 
+ -260 pips 
+ 
+ 
+ 2.1606 
+ +343 pips 
+ 
+ 
+ 
+2.19492
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NZDCHF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5147 
+ -11 pips 
+ 
+ 
+ 0.5268 
+ -110 pips 
+ 
+ 
+ 
+0.51577 --- 2025-02-10T00:00:00.000Z
+

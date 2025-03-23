@@ -1,0 +1,51 @@
+# USD/JPY Fundamental 2025 Outlook Preview
+
+### David Scutt
+This is an excerpt from our full 2025 USD/JPY Outlook report, one of nine detailed reports about what to expect in the coming year. 
+ US Treasury yields and Fed policy will be key drivers for USD/JPY in 2025 
+ Diverging economic performance between the US and Japan creates backdrop for ongoing volatility. 
+ Trump’s fiscal policies, including potential tax cuts and tariffs, could influence inflation expectations and the dollar. 
+ BoJ’s moves, including potential rate hikes and intervention, carry sizeable reversal risks 
+ Carry trades flows vulnerable to expensive asset valuations, narrowing yield differentials 
+ 
+ Summary 
+ 2024 was a wild year for USD/JPY, with shifting interest rate dynamics and Donald Trump’s re-election as US President driving significant market moves. 
+ This report explores the critical factors behind the price action, including relative economic performance, policy responses from the Fed and BoJ, along with the importance of continued buoyancy in asset valuations. 
+ Key insights include: 
+ 
+ How correlation between USD/JPY and US Treasury yields shaped market moves, with longer-dated yields taking the lead 
+ The role of carry trade flows and Japanese monetary policy in influencing short-term yen fluctuations 
+ A technical and fundamental outlook on US Treasury yields and their implications for USD/JPY in 2025 
+ 
+ The analysis offers a comprehensive view of USD/JPY’s drivers and scenarios for potential outcomes, providing traders and investors with actionable insights for the year ahead. 
+ US exceptionalism on full display 
+ 2024 was the year when the US economy simply wouldn’t quit, roaring back to life just as it seemed activity was rolling over, maintaining its streak of exceptional performance relative to other developed nations, including Japan. 
+ You can see the divergence in the first chart, which shows Citi’s economic surprise indices, a measurement of how economic data performs relative to expectations. A reading above 0 indicates more data than not has topped consensus, with the distance from 0 reflecting the aggregate proportion of surprises. 
+ 
+ Source: Refinitiv 
+ Japanese data, shown in red, undershot consensus for large periods in the second half of 2024, coinciding with the BoJ’s move to normalise monetary policy by abandoning yield curve control and lifting overnight rates out of negative territory. In contrast, US economic data, shown in blue, delivered persistent upside surprises over the past two years, apart from a brief dip in mid-2024. 
+ This relative economic divergence, and the subsequent reaction functions from the Fed and BoJ, explains much of the price action seen in USD/JPY in 2024, as the following section outlines. 
+ Comeback’s spark major rates reversal 
+ With US economic data roaring back to life last quarter, it sparked a major recalibration of expectations on how much the Federal Reserve will need to cut interest rates in 2025. Futures shifted from pricing nearly six cuts to fewer than two, contributing to US two-year Treasury yields reversing sharply higher toward levels seen immediately after the US Presidential election. 
+ That event is worth noting as President-elect Donald Trump’s policy mix has been a significant factor behind the sharp rise in longer-dated US Treasury yields, boosting growth expectations and bringing future fiscal deficits into focus. Combined with proposed mass deportations of undocumented workers and one-off impacts from planned import tariffs, perceived inflation risks are skewing higher, including from rising wages 
+ 
+ Source: TradingView 
+ The point cannot be reinforced enough: while it will be easy for the Trump Administration to introduce tax cuts and tariffs, delivering offsetting measures to counteract the inflationary impact – such as boosting productive capacity and achieving public sector synergies – will be far more challenging, especially without the threat of industrial action. Such measures could take years to implement. 
+ Key US data to watch 
+ The byproduct of government policy will shape future economic outcomes. For USD/JPY, the key data points to monitor are nonfarm payrolls and core consumer price inflation. While the core PCE deflator is the Fed’s preferred inflation measure, CPI often moves markets more as it includes many components that feed into the PCE measure. 
+ While they don’t carry the same potential to spark volatility, GDP, jobless claims, consumer spending and incomes, along with wage measures such as the Employment Cost Index, are other reports traders should watch. Treasury auctions, given their implications for yields, may also become increasingly influential next year. 
+ The policy mix and trajectory for US economic data will be highly influential on the US interest rate curve in 2025. As the next section explains, it’s also critical for USD/JPY. 
+ Long bonds provide strong leads 
+ The following chart is divided into three panes: USD/JPY on the left, US two, five, and 10-year Treasury yields in the centre, and the rolling daily correlation between the currency pair and various interest rate variables over the past quarter on the right. 
+ 
+ Source: TradingView 
+ Where US Treasury yields moved last year, USD/JPY almost always followed. This is visually evident and confirmed by the correlation coefficient analysis, showing especially tight relationships with US five and 10-year Treasury yields. 
+ Correlation coefficient scores measure the strength and direction of a relationship between two variables, ranging from -1 to +1. A score near +1 signals a strong positive link, where one rises as the other moves up. A reading closer to -1 shows a strong inverse relationship, while zero indicates no correlation. 
+ While correlation does not imply causation, in this instance, US yields in the belly and back end of the Treasury curve drove USD/JPY moves for much of the year. 
+ US short-end rates and interest rate spreads between the US and Japan were also correlated with USD/JPY, albeit less so than longer-term yields. 
+ There was a weak positive relationship with Japanese 10-year yields, but that likely reflects the impact of US Treasury yield fluctuations on global borrowing costs. All else being equal, one would expect an inverse correlation if there were a meaningful fundamental relationship. 
+ Japanese events an important short-term driver 
+ That’s not to say Japanese data and interest rates don’t matter for USD/JPY. They do, but typically only for short periods when they threaten to disrupt carry trade flows. These flows rely on borrowing yen cheaply and swapping it into higher-yielding currencies. Higher Japanese interest rates can discourage carry trades both on a relative return and FX basis, resulting in capital being repatriated into the yen. When that occurs, it has the potential to deliver powerful USD/JPY downside. 
+ Even though US longer-term rates were highly influential for much of 2024, that doesn’t mean they will always be influential. Market drivers can and do change, as indicated by the black box and dotted black arrows in the chart above. 
+ This is an excerpt from our full 2025 USD/JPY Outlook report, one of nine detailed reports about what to expect in the coming year. --- 2024-12-23T00:00:00.000Z
+
